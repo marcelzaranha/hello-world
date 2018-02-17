@@ -1,6 +1,6 @@
 # hello-world
 Just another repository
 
-Working in progress...
+Work in progress...
 
 
